@@ -141,19 +141,17 @@ img {
 .link {
     float: left;
     width: 66%;
-    background-color: #005eff;
 }
 
 .image {
     float: left;
     width: 34%;
-    background-color: #005eff;
     margin-bottom: 0px;
     margin-top: auto;
     background-size: 30%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .link {
         width: 50%;
     }
@@ -163,7 +161,8 @@ img {
     }
 }
 
-.coba {
-    height: min-content;
-    color: #005eff;
+.flex-container {
+    display: flex;
+    align-items: stretch;
+    background-color: #005eff;
 }
