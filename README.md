@@ -1,6 +1,6 @@
 # yusriizal14.github.io
 
-# kelompok  c05
+# kelompok  A05
 - header = rizqi hanna
 - main = siti fadiawati, sri dewi sartika syarifuddin dan nimas sekar
 - footer = yusriizal
